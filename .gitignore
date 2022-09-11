@@ -1,0 +1,7 @@
+.idea
+data
+datasets
+models
+test_results
+WSKP_auto_kernel/build
+WSKP_auto_kernel/*.pyd
